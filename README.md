@@ -6,7 +6,7 @@ Solution for Cassava Competition 2020 at Kaggle. Korean explanation included.
 
 데이터는 아래의 링크에서 다운받아 직접 실행하여 볼 수 있습니다. 또한 Kaggle API를 통해서 더 쉽게 다운로드 가능합니다.
 ```
-  kaggle competitions download -c cassava-leaf-disease-classification
+kaggle competitions download -c cassava-leaf-disease-classification
 ```
 
 ## Notebooks
