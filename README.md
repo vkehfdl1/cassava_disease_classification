@@ -9,6 +9,10 @@ Solution for Cassava Competition 2020 at Kaggle. Korean explanation included.
 kaggle competitions download -c cassava-leaf-disease-classification
 ```
 
+구글의 EfficientnetB4로 transfer learning을 사용해 훈련하였습니다. 대회 데이터 뿐 아니라 2019년 대회의 데이터까지 merge하여 한 번에 훈련에 이용하였습니다. Image augmentation을 사용하여 더 다양한 사진에도 잘 학습하도록 하였으며, voting ensemble과 TTA를 사용하여 정확도를 높였습니다. 
+
+결과적으로 test data 기준으로 89.5% 정도의 정확도를 보여주는 코드입니다. 
+
 ## Notebooks
 * [베이스라인 코드](./for-korean-cassava.ipynb)
 * [훈련 코드](./for-korean-lb-0-895-effnetb4-train.ipynb)
