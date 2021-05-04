@@ -6,6 +6,6 @@ Solution for Cassava Competition 2020 at Kaggle. Korean explanation included.
 
 ## Resource
 
-[Kaggle Competition Site](https://www.kaggle.com/c/cassava-leaf-disease-classification)
-[Cassave dataset](https://www.kaggle.com/c/cassava-leaf-disease-classification/data)
-[Leaderboard](https://www.kaggle.com/c/cassava-leaf-disease-classification/data)
+* [Kaggle Competition Site](https://www.kaggle.com/c/cassava-leaf-disease-classification)
+* [Cassave dataset](https://www.kaggle.com/c/cassava-leaf-disease-classification/data)
+* [Leaderboard](https://www.kaggle.com/c/cassava-leaf-disease-classification/data)
